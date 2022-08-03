@@ -1,0 +1,118 @@
+[<font color="#FF0000" face="Arial, Helvetica, sans-serif" size="4">
+    <strong>Government
+
+        Polytechnic Amravati<br />
+    </strong>
+</font>, <font face="Verdana, Arial, Helvetica, sans-serif" size="1">(An
+
+    Autonomous Institute of Govt. of Maharashtra)</font>, <font color="#CC3300" face="Arial, Helvetica, sans-serif"
+    size="3"><strong>Statement
+
+        of Marks</strong></font>, <font face="Arial, Helvetica, sans-serif" size="2">
+
+    19CM007
+</font>, <font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    CM5460
+</font>, <font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    COMPUTER GRAPHICS
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">70</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2">64</font>, <font face="Arial, Helvetica, sans-serif" size="2">30</font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">28</font>, <font face="Arial, Helvetica, sans-serif" size="2">25</font>
+, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif" size="2">25
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2"></font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">150</font>, <font face="Arial, Helvetica, sans-serif" size="2">140
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">P</font>, <font face="Arial, Helvetica, sans-serif"
+    size="1"> �
+
+    CM5461
+</font>, <font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    PROGRAMMING WITH PYTHON
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">70</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2">69</font>, <font face="Arial, Helvetica, sans-serif" size="2">30</font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">30</font>, <font face="Arial, Helvetica, sans-serif" size="2">25</font>
+, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif" size="2">25
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2"></font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">150</font>, <font face="Arial, Helvetica, sans-serif" size="2">147
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">P</font>, <font face="Arial, Helvetica, sans-serif"
+    size="1"> �
+
+    CM5465
+</font>, <font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    CLOUD COMPUTING
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">70</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2">59</font>, <font face="Arial, Helvetica, sans-serif" size="2">30</font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">29</font>, <font face="Arial, Helvetica, sans-serif" size="2">25</font>
+, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif" size="2">25
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2"></font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">150</font>, <font face="Arial, Helvetica, sans-serif" size="2">136
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">P</font>, <font face="Arial, Helvetica, sans-serif"
+    size="1"> �
+
+    CM5468
+</font>, <font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    PROJECT EXECUTION AND REPORT WRITING
+</font>, <font face="Arial, Helvetica, sans-serif" size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2">
+</font>, <font face="Arial, Helvetica, sans-serif" size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2">
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">50</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2">49</font>, <font face="Arial, Helvetica, sans-serif" size="2">50</font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">49</font>, <font face="Arial, Helvetica, sans-serif" size="2"></font>,
+<font face="Arial, Helvetica, sans-serif" size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2">100
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">98</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2">P</font>, <font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    CM5474
+</font>, <font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    LINUX OPERATING SYSTEM
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">70</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2">66</font>, <font face="Arial, Helvetica, sans-serif" size="2">30</font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">30</font>, <font face="Arial, Helvetica, sans-serif" size="2">25</font>
+, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif" size="2">25
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">24</font>, <font face="Arial, Helvetica, sans-serif"
+    size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2"></font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">150</font>, <font face="Arial, Helvetica, sans-serif" size="2">144
+</font>,
+<font face="Arial, Helvetica, sans-serif" size="2">P</font>,
+<font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    FC5490
+</font>,
+<font face="Arial, Helvetica, sans-serif" size="1"> �
+
+    EMERGING TRENDS IN COMPUTER ENGINEERING AND INFORMATION TECHNOLOGY
+</font>,
+
+<font face="Arial, Helvetica, sans-serif" size="2">35</font>,
+<font face="Arial, Helvetica, sans-serif" size="2">34</font>,
+<font face="Arial, Helvetica, sans-serif" size="2">15</font>,
+<font face="Arial, Helvetica, sans-serif" size="2">15</font>,
+<font face="Arial, Helvetica, sans-serif" size="2">25</font>
+, <font face="Arial, Helvetica, sans-serif" size="2">24</font>,
+<font face="Arial, Helvetica, sans-serif" size="2">25
+</font>,
+<font face="Arial, Helvetica, sans-serif" size="2">24</font>,
+<font face="Arial, Helvetica, sans-serif" size="2"></font>, <font face="Arial, Helvetica, sans-ser
+    if" size="2"></font>, <font face="Arial, Helvetica, sans-serif" size="2">100</font>, <font
+    face="Arial, Helvetica, sans-serif" size="2">97
+</font>, <font face="Arial, Helvetica, sans-serif" size="2">P</font>, <font color="#FF0000"
+    face="Arial, Helvetica, sans-serif" size="2">Note
+
+    :</font>, <font color="#FF0000" face="Arial, Helvetica, sans-serif" size="2">(1)</font>, <font color="#FF0000"
+    face="Arial, Helvetica, sans-serif" size="2">���Marksheet
+
+    obtained from the college will be consider as valid document.</font>, <font color="#FF0000"
+    face="Arial, Helvetica, sans-serif" size="2">(2)</font>, <font color="#FF0000" face="Arial, Helvetica, sans-serif"
+    size="2">���This
+
+    Marklist is computerized .Please make conformation from the
+
+    Examination Center . </font>, <font color="#FF0000" face="Arial, Helvetica, sans-serif" size="2">
+</font>]
